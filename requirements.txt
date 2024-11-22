@@ -1,5 +1,15 @@
-pandas
-numpy
+pip-chill==1.0.1
+pymongo==4.2.0
+python-dotenv==0.21.0
+python-multipart==0.0.6
+seaborn==0.12.2
+types-s3transfer==0.6.0.post4
+uvicorn==0.18.3
+watchfiles==0.17.0
+websockets==10.3
+wincertstore==0.2
+xgboost==1.6.2
+neuro-mf=0.0.5
+boto3==1.26.105
 
--e.
-
+-e
